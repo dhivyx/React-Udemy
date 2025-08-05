@@ -1,4 +1,4 @@
-import { FaBars, FaBell, FaMagnifyingGlass, FaSearch, FaShoppingCart, FaUser} from "react-icons/fa";
+import { FaBars, FaBell, FaSearch, FaShoppingCart, FaUser} from "react-icons/fa";
 //Creating Navbar
 
 function Navbar() {
